@@ -1,4 +1,4 @@
-"use client";
+t"use client";
 
 import Image from "next/image";
 import React from "react";
@@ -25,7 +25,7 @@ export function ThreeDCardDemo() {
           translateZ="60"
           className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
         >
-          Możliwość współpracy ze SkyClickerem była przyjemnością. W projekcie miałem za zadanie Stworzyć Bota i Stronę. Skyclicker to macro do Minecrafta które bardzo polecam ;)
+          Możliwość współpracy ze SkyClickerem była przyjemnością. W projekcie miałem za zadanie Stworzyć Bota i Stronę. Niestety projekty SkyClicker się zakończył
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
