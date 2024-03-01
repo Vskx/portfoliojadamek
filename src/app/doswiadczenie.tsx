@@ -18,13 +18,13 @@ export const projects = [
   {
     title: "Strony Internetowe",
     description:
-      "Specjalizuję się w tworzeniu responsywnych stron internetowych. Moje główne narzędzia to React, Next.js i Tailwind CSS. Z pasją projektuję oraz implementuję estetyczne i funkcjonalne rozwiązania, które nie tylko spełniają oczekiwania użytkowników, ale także dostarczają im wyjątkowe doświadczenia.",
+      "Specjalizuję się w tworzeniu stron internetowych. Moje główne narzędzia to React, Next.js i Tailwind CSS. Z pasją projektuję oraz tworzę funkcjonalne rozwiązania, które nie tylko spełniają oczekiwania użytkowników, ale także dostarczają im wyjątkowe doświadczenia.",
     link: "#",
   },
   {
     title: "Aplikacje Mobilne",
     description:
-      "Moje umiejętności koncentrują się głównie na tworzeniu aplikacji z użyciem React Native. Moje projekty charakteryzują się nie tylko funkcjonalnością, ale także estetyką i płynnością działania, co tworzy doskonałe doświadczenia mobilne.",
+      "Moje umiejętności koncentrują się głównie na tworzeniu aplikacji z użyciem React Native. Moje projekty charakteryzują się nie tylko funkcjonalnością, ale także płynnością działania, co tworzy doskonałe doświadczenia mobilne.",
     link: "#",
   },
 
