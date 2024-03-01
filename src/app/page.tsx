@@ -18,6 +18,7 @@ import Footer from "./footer";
 
 export default function Home() {
   useEffect(() => {
+    document.title = 'Joł siema hej czesc';
     AOS.init()
   },[])
 
