@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "W skrócie!",    
     description:
-      "Jestem Jadamek i jestem młodym programistą. Mam 15 lat, moje 'prawdziwe' imię to Adam",
+      "Jestem Adam i jestem młodym programistą 😂. Mam 15 lat.",
     link: "#",
   },
   {
