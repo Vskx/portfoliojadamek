@@ -18,13 +18,13 @@ export const projects = [
   {
     title: "Zainteresowania!",
     description:
-      "Bardzo interesuję sie programowaniem, szczególnie stron internetowych i aplikacji, a także botów discord. Moje inne zainteresowania to Rowery i Piłka nożna.",
+      "Bardzo interesuję sie programowaniem, szczególnie stron internetowych i aplikacji, a także botów discord. Moje inne zainteresowania to Rowery, Piłka nożna i Fizyka.",
     link: "#",
   },
   {
     title: "Nad czym precuję!",
     description:
-      "Aktualnie staram sie rozwijać swoje umiejętności w zakresie frontendu i tworzenia UI/UX",
+      "Aktualnie staram sie rozwijać swoje umiejętności w zakresie frontendu i tworzenia botów discord",
     link: "#",
   },
 
